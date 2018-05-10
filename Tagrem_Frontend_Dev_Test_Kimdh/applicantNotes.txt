@@ -1,0 +1,7 @@
+As instructed, the UI implemented the Specs folder materials as guideline in addition
+to making personal changes to mimic the final product images.
+
+JS/CSS framework/libraries used:
+jQuery
+jQuery UI
+Bootstrap
